@@ -1,0 +1,15 @@
+.data-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(171, 113, 113);
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
+    border-radius: 1rem;
+    font-size: larger;
+    margin-bottom: 0.5rem;
+}
+button{
+    border: none;
+    margin-left: 0.5rem;
+    cursor: pointer;
+}
